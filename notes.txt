@@ -1,0 +1,3 @@
+git version control system that is designed to handl small to large projects simutaneously
+
+github web based platform that uses git version contro open source
